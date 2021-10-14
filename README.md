@@ -20,6 +20,4 @@
 <div>
   <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a/>
   <a href = "mailto:contato.4years@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <br>
-    ![Snake animation](https://github.com/DeViktor/DeViktor/blob/output/github-contribution-grid-snake.svg)
 </div>
